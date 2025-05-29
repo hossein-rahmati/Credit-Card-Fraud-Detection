@@ -13,3 +13,6 @@ Fraud detection is a critical task in the financial sector. This project demonst
 - **Model training using Random Forests**
 - **Model evaluation with metrics like accuracy, precision, recall, F1-score, and MCC**
 - **Hyperparameter tuning and cross-validation**
+
+
+This project is licensed under the [MIT License](https://github.com/hossein-rahmati/Credit-Card-Fraud-Detection/blob/master/LICENSE). You can use, modify, and distribute this code with proper attribution.
